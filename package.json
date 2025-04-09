@@ -1,10 +1,11 @@
-"homepage": "https://ADARSH4118.github.io/Weather_Web_App",
+
 
 {
   "name": "weather-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ADARSH4118.github.io/Weather_Web_App",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
